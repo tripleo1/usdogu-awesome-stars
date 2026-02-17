@@ -606,7 +606,7 @@
 - [Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
-- [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
+- [cypherpunk2001/systemE](https://github.com/cypherpunk2001/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
 - [sabof/org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
 - [kchanqvq/xwwp](https://github.com/kchanqvq/xwwp) - Enhance the Emacs xwidget-webkit browser
@@ -2046,7 +2046,7 @@
 
 ## Swift 
 
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
+- [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
