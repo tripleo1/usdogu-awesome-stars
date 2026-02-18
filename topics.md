@@ -324,6 +324,7 @@
 
 ## android 
 
+- [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
@@ -1018,7 +1019,7 @@
 
 ## csharp 
 
-- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable, Fast,  Cross-Platform, Free VPN
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
@@ -1244,7 +1245,7 @@
 ## dotnet 
 
 - [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
-- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable, Fast,  Cross-Platform, Free VPN
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Ghidra .NET Native AOT Analyzer Plugin
@@ -2183,6 +2184,7 @@
 
 ## javascript 
 
+- [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
@@ -3706,6 +3708,7 @@
 
 ## pentesting 
 
+- [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [Anof-cyber/Androset](https://github.com/Anof-cyber/Androset) - Automated script to convert and push Burp Suite certificate in Android, and modify Android's IP table to redirect all traffic to Burp Suite.
@@ -4028,6 +4031,7 @@
 
 ## reverse-engineering 
 
+- [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) - sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard op
@@ -4110,6 +4114,7 @@
 
 ## rust 
 
+- [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
@@ -4340,6 +4345,7 @@
 
 ## security 
 
+- [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -4819,7 +4825,7 @@
 
 ## vpn 
 
-- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable, Fast,  Cross-Platform, Free VPN
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
