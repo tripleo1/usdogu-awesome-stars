@@ -584,7 +584,7 @@
 ## bot 
 
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [Otann/morse](https://github.com/Otann/morse) - 📡 Clojure interface for Telegram Bot API
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
 - [code-rgb/USERGE-X](https://github.com/code-rgb/USERGE-X) - USERGE-X. What the X ?
@@ -1945,7 +1945,7 @@
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -2886,6 +2886,7 @@
 
 ## others 
 
+- [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port) - Shifting.Codes
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
@@ -3895,7 +3896,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
@@ -3935,7 +3936,7 @@
 - [extremecoders-re/python-snippet-decompiler](https://github.com/extremecoders-re/python-snippet-decompiler) - Tool to assist during manual decompilation of Python bytecode
 - [secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
@@ -4574,7 +4575,7 @@
 - [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
 - [grammyjs/telegram.tools](https://github.com/grammyjs/telegram.tools) - Web-based tools for Telegram developers.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [wdhowe/telegrambot-lib](https://github.com/wdhowe/telegrambot-lib) - Clojure library implementation of the Telegram Bot API.
@@ -4607,7 +4608,7 @@
 ## telegram-bot 
 
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [wdhowe/telegrambot-lib](https://github.com/wdhowe/telegrambot-lib) - Clojure library implementation of the Telegram Bot API.
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [RITlug/teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
@@ -4791,6 +4792,7 @@
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
